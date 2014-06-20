@@ -10,6 +10,9 @@ public class action {
 		System.out.print("Welcome");
 		System.out.print(true);
         System.out.println(false);
+        System.out.print("Welcome");
+		System.out.print(true);
+        System.out.println(false);
 	}
 
 }
